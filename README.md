@@ -1,6 +1,11 @@
 # Loja Google (Google Store)
 Este dashboard foi desenvolvido para a análise interativa dos dados de vendas da **Google Store** no ano de 2017, com o intuito de fornecer insights valiosos e facilitar a tomada de decisões estratégicas. A ferramenta utilizada para a criação desse dashboard foi o **Power BI**, proporcionando uma interface visual robusta e prática para os tomadores de decisão. Aqui estão os principais insights e funcionalidades disponíveis.
 
+## Screenshots
+
+### Visão Geral do Dashboard
+![Visão geral do dashboard](Screenshots/Google_Analytics_PT_page-0001.jpg)
+
 ## Insights Principais
 
 ### 1. **Receita Total e Pedidos**
@@ -52,10 +57,6 @@ Com base nos dados deste dashboard, as seguintes ações são recomendadas:
 ## Conclusão
 Este dashboard oferece uma visualização clara e estratégica dos dados de vendas da Google Store, permitindo que gerentes de marketing e de operações tomem decisões informadas para otimizar a receita, melhorar a experiência do usuário e aumentar a eficiência das campanhas publicitárias.
 
-## Screenshots
-
-### Visão Geral do Dashboard
-![Visão geral do dashboard](Screenshots/Google_Analytics_PT_page-0001.jpg)
 
 ## Como Executar este Projeto
 
